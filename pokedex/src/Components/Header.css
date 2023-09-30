@@ -1,0 +1,10 @@
+header {
+    color: #fff;
+    height: 10vh;
+  }
+
+  .navbar-collapse {
+    justify-content: center;
+    display: flex;
+    text-align: center;  }
+

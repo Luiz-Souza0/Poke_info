@@ -1,0 +1,18 @@
+{
+    "Pokemon": [
+  {
+    "id": 1,
+    "imageSrc": "https://clipart-library.com/image_gallery/n1582570.gif",
+    "alt": "Charizard",
+    "Nome": "Charizard",
+    "Number": "3"
+  },
+  {
+    "id": 2,
+    "imageSrc": "https://i.pinimg.com/originals/a7/a8/d0/a7a8d06c754cfbbbc37e64cb118c513c.gif",
+    "alt": "Pikachu",
+    "Nome": "Pikachu",
+    "Number": "0"
+  }
+]
+  }

@@ -1,0 +1,35 @@
+.main-content-contact {
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    border-radius: 2px;
+    flex-direction: column; 
+    padding: 50px 0;
+    background-image: url("../public/contact.jpg");
+    min-height: calc(100vh - 60px);
+    overflow: hidden;
+  }
+  
+  .contact-info {
+    text-align: left; 
+    max-width: 400px; 
+    margin: 0 auto; 
+    padding: 20px;
+    background-color: #fff; 
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); 
+  }
+  
+  .contact-info p {
+    margin: 10px 0;
+  }
+  
+  .main-content-contact h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .contact-info strong {
+    font-weight: bold;
+  }
+  
